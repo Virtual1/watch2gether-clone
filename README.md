@@ -40,7 +40,8 @@ List of major frameworks I used within this project:
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
-* Node.js installed (<a href="https://nodejs.org/en/download">Download here</a>)
+* Node.js (<a href="https://nodejs.org/en/download">Download here</a>)
+* MongoDB (<a href="https://www.mongodb.com/try/download/community">Download here</a>)
 
 ### Installation
 1. Get a free Google API Key [here](https://developers.google.com/youtube/v3/getting-started) and activate the Youtube Data API v3
