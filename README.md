@@ -13,7 +13,6 @@
     <br />
     <a href="https://watch2gether-clone.herokuapp.com"><strong>View Demo »</strong></a>
     <br />
-    ·
     <a href="https://github.com/saibot-tsch/watch2gether-clone/issues">Report Bug</a>
     ·
     <a href="https://github.com/saibot-tsch/watch2gether-clone/issues">Request Feature</a>
