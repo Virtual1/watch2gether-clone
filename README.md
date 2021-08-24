@@ -40,9 +40,7 @@ List of major frameworks I used within this project:
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* Node.js installed (<a href="https://nodejs.org/en/download">Download here</a>)
+* Node.js installed (<a href="https://nodejs.org/en/download">Download</a>)
 
 ### Installation
 
