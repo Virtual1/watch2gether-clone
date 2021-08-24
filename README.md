@@ -8,7 +8,7 @@
   <h3 align="center">Watch2Gether Clone</h3>
 
   <p align="center">
-    Made with Node.js, Express, Socket.io and ❤.
+    Made with Node.js, Express, Socket.io and ❤
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
