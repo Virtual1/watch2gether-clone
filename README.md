@@ -19,6 +19,10 @@
   </p>
 </p>
 
+<br>
+
+<br>
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
