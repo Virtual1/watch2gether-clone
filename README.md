@@ -26,6 +26,17 @@
 I made this project because there are no good Watch2Gether / Youtube Video Synchronize Website Clones out there with that many features. Also I wanted to challenge  myself and test my Node.js and Socket.io skills. Worth mentioning I'm not a expert in Web Development, so I would love to get feedback from you.
 
 
+Why you should use my Watch2Gether Clone:
+* Reponsive, SEO friendly and easy to understand UI
+* Secure (If you should find any bug please report it)
+* Features like:
+- Chat
+- Playlist (Add, Remove, Change Playing Video)
+- Role based (Owner, Guest)
+- Owner can kick or ban users
+- Beautiful Video Player
+- Rate Limiting on every page (Socket can only be connected in one room)
+
 ### Built With
 List of major frameworks I used within this project:
 * [Node.js](https://nodejs.org)
@@ -40,33 +51,23 @@ List of major frameworks I used within this project:
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
-* Node.js (<a href="https://nodejs.org/en/download">Download here</a>)
-* MongoDB (<a href="https://www.mongodb.com/try/download/community">Download here</a>)
+* Node.js installed (<a href="https://nodejs.org/en/download">Download here</a>)
+* MongoDB installed & started (<a href="https://www.mongodb.com/try/download/community">Download here</a>)
 
 ### Installation
 1. Get a free Google API Key [here](https://developers.google.com/youtube/v3/getting-started) and activate the Youtube Data API v3
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/saibot-tsch/watch2gether-clone.git
    ```
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
+4. Enter your API Key, MongoDB and Server Configuration in `.env`
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 
 
 <!-- ROADMAP -->
