@@ -96,6 +96,7 @@ Tobias Scharl - ScharlT.coding@gmail.com
 * [Nodemon](https://www.npmjs.com/package/nodemon)
 * [Helmet](https://www.npmjs.com/package/helmet)
 * [UUID](https://www.npmjs.com/package/uuid)
+* [Heroku](https://heroku.com)
 
 Also a huge thanks to <a href="https://github.com/aneagoie">Andrei Neagoie</a>, <a href="https://github.com/bradtraversy">Brad Traversy</a>, <a href="https://stackoverflow.com">Stackoverflow :)</a> and many more, learning and helping me while programming. Not a thanks to large unuseful docs ;). 
 
