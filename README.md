@@ -30,12 +30,12 @@ Why you should use my Watch2Gether Clone:
 * Reponsive, SEO friendly and easy to understand UI
 * Secure (If you should find any bug please report it)
 * Features like:
-- Chat
-- Playlist (Add, Remove, Change Playing Video)
-- Role based (Owner, Guest)
-- Owner can kick or ban users
-- Beautiful Video Player
-- Rate Limiting on every page (Socket can only be connected in one room)
+  - Chat
+  - Playlist (Add, Remove, Change Playing Video)
+  - Role based (Owner, Guest)
+  - Owner can kick or ban users
+  - Beautiful Video Player
+  - Rate Limiting on every page (Socket can only be connected in one room)
 
 ### Built With
 List of major frameworks I used within this project:
