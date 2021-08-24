@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/saibot-tsch/watch2gether-clone">
+    <img src="https://i.ibb.co/xhBGd6M/watch2gether-clone.png" alt="Showcase Image" width="600" height="450">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
