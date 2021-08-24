@@ -96,4 +96,3 @@ Tobias Scharl - ScharlT.coding@gmail.com
 * [Nodemon](https://www.npmjs.com/package/nodemon)
 * [Helmet](https://www.npmjs.com/package/helmet)
 * [UUID](https://www.npmjs.com/package/uuid)
-* @bradtraversy
