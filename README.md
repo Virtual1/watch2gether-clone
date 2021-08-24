@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/saibot-tsch/watch2gether-clone">
-    <img src="https://i.ibb.co/xhBGd6M/watch2gether-clone.png" alt="Showcase Image" width="600" height="450">
+    <img src="https://i.ibb.co/xhBGd6M/watch2gether-clone.png" alt="Showcase Image" width="600" height="600">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
