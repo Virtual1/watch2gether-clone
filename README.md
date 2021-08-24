@@ -7,7 +7,7 @@
     <img src="https://i.ibb.co/xhBGd6M/watch2gether-clone.png" alt="Showcase Image">
   </a>
 
-  <img src="https://i.ibb.co/xhBGd6M/watch2gether-clone.png" alt="Showcase Image" width="2560" height="1440">
+  <img src="https://i.ibb.co/xhBGd6M/watch2gether-clone.png" alt="Showcase Image" align="center">
   
   <h3 align="center">Best-README-Template</h3>
 
