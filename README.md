@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/saibot-tsch/watch2gether-clone">
+  <a href="https://github.com/saibot-tsch/watch2gether-clone" target="_blank">
     <img src="https://s20.directupload.net/images/210824/upb4hkjt.png" alt="Showcase Image">
   </a>
   
