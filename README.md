@@ -29,7 +29,7 @@ I made this project because there are no good Watch2Gether / Youtube Video Synch
 Why you should use my Watch2Gether Clone:
 * Reponsive, SEO friendly and easy to understand UI
 * Secure (If you should find any bug please report it)
-* Features like:
+* Many Features like:
   - Chat
   - Playlist (Add, Remove, Change Playing Video)
   - Role based (Owner, Guest)
@@ -66,16 +66,6 @@ To get a local copy up and running follow these simple steps.
    ```
 4. Enter your API Key, MongoDB and Server Configuration in `.env`
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -89,33 +79,21 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Tobias Scharl - ScharlT.coding@gmail.com
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* [Nodemon](https://www.npmjs.com/package/nodemon)
+* [Helmet](https://www.npmjs.com/package/helmet)
+* [UUID](https://www.npmjs.com/package/uuid)
+* @bradtraversy
