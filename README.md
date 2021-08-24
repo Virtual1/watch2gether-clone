@@ -23,11 +23,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-I made this project because there are no good Watch2Gether / Youtube Video Synchronize Website Clones out there with that many features. Also I wanted to challenge  myself, test my Node.js and Socket.io skills and see what you can improve or build out of it.
+I made this project because there are no good Watch2Gether / Youtube Video Synchronize Website Clones out there with that many features. Also I wanted to challenge  myself and test my Node.js and Socket.io skills. Worth mentioning I'm not a expert in Web Development, so I would love to get feedback from you.
 
 
 ### Built With
-List of major frameworks I used within this project.
+List of major frameworks I used within this project:
 * [Node.js](https://nodejs.org)
 * [Express](https://expressjs.com)
 * [Socket.io](https://socket.io)
@@ -37,17 +37,12 @@ List of major frameworks I used within this project.
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Node.js installed (<a href="https://github.com/saibot-tsch/watch2gether-clone/issues">Download here</a>)
 
 ### Installation
 
