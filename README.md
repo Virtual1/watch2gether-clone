@@ -8,16 +8,15 @@
   <h3 align="center">Watch2Gether Clone</h3>
 
   <p align="center">
-    Made with Node.js, Express, Socket.io and ❤
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    Watch Youtube Videos synchronized with friends.
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://watch2gether-clone.herokuapp.com"><strong>View Demo »</strong></a>
+    <br />
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/saibot-tsch/watch2gether-clone/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/saibot-tsch/watch2gether-clone/issues">Request Feature</a>
   </p>
 </p>
 
