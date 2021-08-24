@@ -27,11 +27,12 @@ I made this project because there are no good Watch2Gether / Youtube Video Synch
 
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+List of major frameworks I used within this project.
+* [Node.js](https://nodejs.org)
+* [Express](https://expressjs.com)
+* [Socket.io](https://socket.io)
+* [Mongoose](https://mongoosejs.com/)
 * [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
 
 
 <!-- GETTING STARTED -->
