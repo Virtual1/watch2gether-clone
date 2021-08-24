@@ -40,11 +40,10 @@ List of major frameworks I used within this project:
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
-* Node.js installed (<a href="https://nodejs.org/en/download">Download</a>)
+* Node.js installed (<a href="https://nodejs.org/en/download">Download here</a>)
 
 ### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free Google API Key [here](https://developers.google.com/youtube/v3/getting-started) and activate the Youtube Data API v3
 2. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
