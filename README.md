@@ -1,5 +1,3 @@
-# watch2gether-clone
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -7,10 +5,10 @@
     <img src="https://s20.directupload.net/images/210824/upb4hkjt.png" alt="Showcase Image">
   </a>
   
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Watch2Gether Clone</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Made with Node.js, Express, Socket.io and ❤.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
